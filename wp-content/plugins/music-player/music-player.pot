@@ -1,0 +1,118 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: music-player\n"
+"POT-Creation-Date: 2018-03-12 00:34+0800\n"
+"PO-Revision-Date: 2018-03-12 00:33+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: music-player.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Template/archive-music.php:49
+msgid "Previous page"
+msgstr ""
+
+#: Template/archive-music.php:50
+msgid "Next page"
+msgstr ""
+
+#: Template/archive-music.php:51
+msgid "Page"
+msgstr ""
+
+#: Template/category-music.php:33 Template/single-music.php:33
+#: single-music.php:33
+msgid "Next"
+msgstr ""
+
+#: Template/category-music.php:34 Template/single-music.php:34
+#: single-music.php:34
+msgid "Next post:"
+msgstr ""
+
+#: Template/category-music.php:36 Template/single-music.php:36
+#: single-music.php:36
+msgid "Previous"
+msgstr ""
+
+#: Template/category-music.php:37 Template/single-music.php:37
+#: single-music.php:37
+msgid "Previous post:"
+msgstr ""
+
+#: music-player.php:43 music-player.php:44
+msgid "Music"
+msgstr ""
+
+#: music-player.php:45 music-player.php:46
+msgid "Add Music"
+msgstr ""
+
+#: music-player.php:68
+msgid "Music Category"
+msgstr ""
+
+#: music-player.php:121
+msgid "Media Library"
+msgstr ""
+
+#: music-player.php:158
+msgid "upload music"
+msgstr ""
+
+#: music-player.php:293
+msgid "singer"
+msgstr ""
+
+#: music-player.php:294
+msgid "music_special"
+msgstr ""
+
+#: music-player.php:295
+msgid "bit_rate"
+msgstr ""
+
+#: music-player.php:296
+msgid "bit_rate_mode"
+msgstr ""
+
+#: music-player.php:297
+msgid "music_play"
+msgstr ""
+
+#: music-player.php:347
+msgid "settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "music-player"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/music-player/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Publish and manage your music on your blog."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "jiali"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://localhost/"
+msgstr ""

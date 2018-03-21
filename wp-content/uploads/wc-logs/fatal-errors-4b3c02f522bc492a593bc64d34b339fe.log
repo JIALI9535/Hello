@@ -1,0 +1,49 @@
+2018-03-14T18:06:53+00:00 CRITICAL Uncaught Error: Call to undefined function do_shorcode() in C:\wamp64\www\jiali\wordpress\wp-content\themes\storefront\functions.php:82
+Stack trace:
+#0 C:\wamp64\www\jiali\wordpress\wp-includes\class-wp-hook.php(286): add_shop_price_filter('')
+#1 C:\wamp64\www\jiali\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\jiali\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\jiali\wordpress\wp-content\plugins\woocommerce\templates\archive-product.php(61): do_action('woocommerce_bef...')
+#4 C:\wamp64\www\jiali\wordpress\wp-includes\template-loader.php(74): include('C:\\wamp64\\www\\j...')
+#5 C:\wamp64\www\jiali\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\j...')
+#6 C:\wamp64\www\jiali\wordpress\index.php(17): require('C:\\wamp64\\www\\j...')
+#7 {main}
+  thrown
+
+2018-03-14T18:07:26+00:00 CRITICAL Uncaught Error: Call to undefined function do_shorcode() in C:\wamp64\www\jiali\wordpress\wp-content\themes\storefront\functions.php:82
+Stack trace:
+#0 C:\wamp64\www\jiali\wordpress\wp-includes\class-wp-hook.php(286): add_shop_price_filter('')
+#1 C:\wamp64\www\jiali\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\jiali\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\jiali\wordpress\wp-content\plugins\woocommerce\templates\archive-product.php(61): do_action('woocommerce_bef...')
+#4 C:\wamp64\www\jiali\wordpress\wp-includes\template-loader.php(74): include('C:\\wamp64\\www\\j...')
+#5 C:\wamp64\www\jiali\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\j...')
+#6 C:\wamp64\www\jiali\wordpress\index.php(17): require('C:\\wamp64\\www\\j...')
+#7 {main}
+  thrown
+
+2018-03-15T14:29:55+00:00 CRITICAL Uncaught Error: Call to undefined function is_filter() in C:\wamp64\www\jiali\wordpress\wp-content\themes\storefront\functions.php:88
+Stack trace:
+#0 C:\wamp64\www\jiali\wordpress\wp-includes\class-wp-hook.php(286): add_something_to_cart('')
+#1 C:\wamp64\www\jiali\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\jiali\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\jiali\wordpress\wp-content\plugins\woocommerce\templates\cart\cart-totals.php(46): do_action('woocommerce_car...')
+#4 C:\wamp64\www\jiali\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(211): include('C:\\wamp64\\www\\j...')
+#5 C:\wamp64\www\jiali\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1574): wc_get_template('cart/cart-total...')
+#6 C:\wamp64\www\jiali\wordpress\wp-includes\class-wp-hook.php(286): woocommerce_cart_totals('')
+#7 C:\wamp64\www\jiali\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_
+
+2018-03-16T08:59:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2018-03-16T17:33:18+00:00 CRITICAL Uncaught Error: Call to undefined method Music::get_object_taxonomies() in C:\wamp64\www\jiali\wordpress\wp-content\plugins\music-player\music-player.php:181
+Stack trace:
+#0 C:\wamp64\www\jiali\wordpress\wp-includes\class-wp-hook.php(288): Music->music_category_drop_list('music')
+#1 C:\wamp64\www\jiali\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\jiali\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\jiali\wordpress\wp-admin\includes\class-wp-posts-list-table.php(478): do_action('restrict_manage...', 'music', 'top')
+#4 C:\wamp64\www\jiali\wordpress\wp-admin\includes\class-wp-list-table.php(1140): WP_Posts_List_Table->extra_tablenav('top')
+#5 C:\wamp64\www\jiali\wordpress\wp-admin\includes\class-wp-list-table.php(1082): WP_List_Table->display_tablenav('top')
+#6 C:\wamp64\www\jiali\wordpress\wp-admin\edit.php(362): WP_List_Table->display()
+#7 {main}
+  thrown
+

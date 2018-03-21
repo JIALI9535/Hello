@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: music-player\n"
+"POT-Creation-Date: 2018-03-15 17:24+0800\n"
+"PO-Revision-Date: 2018-03-15 17:25+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: music-player.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: music-player.php:44 music-player.php:45
+msgid "Music"
+msgstr "音乐"
+
+#: music-player.php:46 music-player.php:47
+msgid "Add Music"
+msgstr "添加音乐"
+
+#: music-player.php:48
+msgid "Edit Music"
+msgstr "修改音乐"
+
+#: music-player.php:49
+msgid "View Music"
+msgstr "音乐"
+
+#: music-player.php:50
+msgid "Search Music"
+msgstr "搜索音乐"
+
+#: music-player.php:51
+msgid "Music Cover"
+msgstr "特色图片"
+
+#: music-player.php:52
+msgid "Set Music Cover"
+msgstr "设置音乐图片"
+
+#: music-player.php:53
+msgid "Remove Music Cover"
+msgstr "删除特色图片"
+
+#: music-player.php:54
+msgid "Set As Music Cover"
+msgstr "设置特色图片"
+
+#: music-player.php:77
+msgid "Music Category"
+msgstr "音乐分类"
+
+#: music-player.php:102
+msgid "Enhanced media library settings"
+msgstr "增强媒体设置"
+
+#: music-player.php:106
+msgid "Play"
+msgstr "播放"
+
+#: music-player.php:107
+msgid "Auto Play"
+msgstr "自动播放"
+
+#: music-player.php:108
+msgid "Circle Play"
+msgstr "循环播放"
+
+#: music-player.php:111
+msgid "Other"
+msgstr "其它"
+
+#: music-player.php:112
+msgid "Clear data when uninstall Plugin"
+msgstr "删除插件时清除数据"
+
+#: music-player.php:130
+msgid "Media Library"
+msgstr "媒体库"
+
+#: music-player.php:160
+msgid "Music URL"
+msgstr "音乐路径"
+
+#: music-player.php:165
+msgid "Upload Music"
+msgstr "上传音乐"
+
+#: music-player.php:171
+msgid "Singer"
+msgstr "歌手"
+
+#: music-player.php:177
+msgid "Album"
+msgstr "专辑"
+
+#: music-player.php:184
+msgid "Bate Rate"
+msgstr "比特率"
+
+#: music-player.php:191
+msgid "Bate Rate Mode"
+msgstr "比特率模式"
+
+#: music-player.php:308
+msgid "singer"
+msgstr "歌手"
+
+#: music-player.php:309
+msgid "music_special"
+msgstr "专辑"
+
+#: music-player.php:310
+msgid "bit_rate"
+msgstr "比特率"
+
+#: music-player.php:311
+msgid "bit_rate_mode"
+msgstr "比特率模板"
+
+#: music-player.php:312
+msgid "music_play"
+msgstr "播放"
+
+#: music-player.php:362
+msgid "settings"
+msgstr "设置"
+
+#. Plugin Name of the plugin/theme
+msgid "music-player"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/music-player/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Publish and manage your music on your blog."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "jiali"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://localhost/"
+msgstr ""
